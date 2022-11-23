@@ -18,7 +18,7 @@ BMI: Body mass index (weight in kg/(height in m)^2)
 DiabetesPedigreeFunction: A function that scores the likelihood of diabetes based on family history.
 Age: Age in years
 Outcome: Class variable (0: a person is not diabetic or 1: a person is diabetic)
-![HeatMap!](https://github.com/HuanLeNguyen98/Pima-Indians-Diabetes-Project/tree/main/Img/PimaIndianHeatMap.jpg)
+<img align="right" width="250" src="Img/Logo_1.png">
 
 ## Exploratory Data Analysis
 The detail of data analysis is in Jupiter file in Github. Below is the heat map to check for the multic-collinearity.
