@@ -18,7 +18,8 @@ BMI: Body mass index (weight in kg/(height in m)^2)
 DiabetesPedigreeFunction: A function that scores the likelihood of diabetes based on family history.
 Age: Age in years
 Outcome: Class variable (0: a person is not diabetic or 1: a person is diabetic)
- 
+<img align="center" width="250" src="img/PimaIndianHeatMap"> 
+
 ## Exploratory Data Analysis
 The detail of data analysis is in Jupiter file in Github. Below is the heat map to check for the multic-collinearity.
 The correlation matrix above uses Pearson’s correlation coefficient to illustrate the relationship between variables. From the figure, a significant correlation can be observed between Pregnancies and Age (0.54), BMI and Skin Thickness (0.53). By the rule of thumb, in the case of the correlation coefficient is above 0.70, multi-collinearity is expected. Hence, no significant case of multi-collinearity is observed.
