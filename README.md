@@ -31,8 +31,10 @@ From the figure, a significant correlation can be observed between Pregnancies a
 ## Building Model
 A logistic regression is used from the dependent variable is binary, ordinal or nominal and the independent variables are either continuous or discrete
 In this scenario, a Logit Model has been used to fit the data
-In this case an event is defined as occurance of ‘1’ in outcome
+In this case an event is defined as occurence of ‘1’ in outcome
 Basically logistic regression uses the odds ratio to build the model
+
+<img align="center" width="550" src="Img/Pima Indian Precision.jpg">
 
 ## Summary
 The accuracy of the Logistic Regression model is 76% means that this model can explain 76% of the variation in dependent variables
