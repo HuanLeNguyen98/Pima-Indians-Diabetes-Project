@@ -40,5 +40,5 @@ Basically logistic regression uses the odds ratio to build the model
 The accuracy of the Logistic Regression model is 76% means that this model can explain 76% of the variation in dependent variables
 The result from confusion_matrix indicates that 442+139 = 481 are correct predictions and 129+58 = 187 are incorrect predictions in the total 768 cases.
  
-** Note:** The model has been improved recently the accuracy is above 90% vs. 76% currently. Results will be uploaded soon.
+**Note:** The model has been improved recently the accuracy is above 90% vs. 76% currently. Results will be uploaded soon.
 
