@@ -22,7 +22,9 @@ Outcome: Class variable (0: a person is not diabetic or 1: a person is diabetic)
 
 ## Exploratory Data Analysis
 The detail of data analysis is in Jupiter file in Github. Below is the heat map to check for the multic-collinearity.
-The correlation matrix above uses Pearson’s correlation coefficient to illustrate the relationship between variables. From the figure, a significant correlation can be observed between Pregnancies and Age (0.54), BMI and Skin Thickness (0.53). By the rule of thumb, in the case of the correlation coefficient is above 0.70, multi-collinearity is expected. Hence, no significant case of multi-collinearity is observed.
+The correlation matrix above uses Pearson’s correlation coefficient to illustrate the relationship between variables.
+<img align="center" width="350" src="Img/Pima Indian Heat Map.jpg">
+From the figure, a significant correlation can be observed between Pregnancies and Age (0.54), BMI and Skin Thickness (0.53). By the rule of thumb, in the case of the correlation coefficient is above 0.70, multi-collinearity is expected. Hence, no significant case of multi-collinearity is observed.
  
 ## Building Model
 A logistic regression is used from the dependent variable is binary, ordinal or nominal and the independent variables are either continuous or discrete
